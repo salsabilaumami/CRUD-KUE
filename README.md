@@ -51,13 +51,14 @@ Aplikasi **Data Produk Kue** adalah sistem sederhana untuk mengelola daftar prod
 ## Cara Menjalankan Aplikasi
 
 Jalankan server Laravel:
-php artisan serve
-Atur koneksi database di file .env:
+ * php artisan serve
+ * Atur koneksi database di file .env:
 
 Cuplikan kode
-DB_DATABASE=nama_database_anda
-DB_USERNAME=root
-DB_PASSWORD=
+* DB_DATABASE=nama_database_anda
+* DB_USERNAME=root
+* DB_PASSWORD=
+
 Buat database di phpMyAdmin sesuai nama di .env
 
 Buka di browser:
@@ -66,11 +67,12 @@ http://127.0.0.1:8000
 ## Tampilan Aplikasi
 
 🖼️ Tampilan Aplikasi
-    Aplikasi ini mencakup beberapa halaman utama:
-    Halaman Daftar Produk: Menampilkan semua koleksi kue.
-    Halaman Tambah Produk: Formulir input data kue baru.
-    Halaman Edit Produk: Memperbarui informasi produk yang ada.
+* Aplikasi ini mencakup beberapa halaman utama:
+* Halaman Daftar Produk: Menampilkan semua koleksi kue.
+* Halaman Tambah Produk: Formulir input data kue baru.
+* Halaman Edit Produk: Memperbarui informasi produk yang ada.
 
 ## Author
 👨‍💻 Author
+
 Nama: Salsabila Umami (240180125)
