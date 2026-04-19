@@ -26,11 +26,9 @@ Aplikasi **Data Produk Kue** adalah sistem sederhana untuk mengelola daftar prod
 
 ## 🚀 Panduan Instalasi
 
-1. **Clone repository:**
-   ```bash
-   git clone (https://github.com/salsabilaumami/CRUD-KUE.git)
+1. Clone repository git clone (https://github.com/salsabilaumami/CRUD-KUE.git)
 
-2.2. Masuk ke folder project:
+2. Masuk ke folder project:
    cd crud-laravel
 
 3. Install dependency:
