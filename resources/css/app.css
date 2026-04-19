@@ -1,0 +1,61 @@
+body {
+    font-family: 'Segoe UI', system-ui, sans-serif;
+    background-color: #fff7f7;
+    margin: 0;
+    padding: 0;
+}
+
+h2 {
+    font-weight: bold;
+    color: #ff6b81;
+}
+
+.container {
+    margin-top: 30px;
+}
+
+.table {
+    background: #ffffff;
+    border-radius: 12px;
+    overflow: hidden;
+}
+
+.table tbody tr:hover {
+    background-color: #fff0f3;
+}
+
+.btn-primary {
+    background-color: #ff6b81;
+    border: none;
+}
+
+.btn-primary:hover {
+    background-color: #ff4d6d;
+}
+
+.btn-warning {
+    background-color: #feca57;
+    border: none;
+}
+
+.btn-warning:hover {
+    background-color: #ffb142;
+}
+
+.btn-danger {
+    background-color: #ff4757;
+    border: none;
+}
+
+.btn-danger:hover {
+    background-color: #e84118;
+}
+
+.form-control {
+    border-radius: 10px;
+}
+
+.card {
+    border-radius: 15px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.05);
+}
